@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Jobayer Hosen 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:6366F1&height=200&section=header&text=Jobayer%20Hosen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Enthusiast;Currently+Learning+Next.js+%26+Django;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
@@ -14,10 +18,11 @@ I am an aspiring **Full-Stack Web Developer** passionate about building responsi
 
 My goal is to grow into a Full-Stack Developer and help build modern, scalable web applications that deliver real value to users and businesses.
 
-- 🔭 I'm currently working on a full-stack web development project
-- 🌱 I'm currently learning **Next.js** & **Django**
+- 🔭 I'm currently working on a full-stack radiology management project (Next.js + Django)
+- 🌱 I'm currently learning **Next.js**, **TypeScript** & **Django**
 - 💬 Ask me about web development
 - 📫 How to reach me: **jobayerhosen045@gmail.com**
+- 📱 Phone: **+880-1861961550**
 - ⚡ Fun fact: I love code ❤️
 
 <br/>
@@ -36,22 +41,42 @@ My goal is to grow into a Full-Stack Developer and help build modern, scalable w
 
 ## 💻 Tech Stack
 
+**Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+</div>
+
 **Frontend**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 </div>
 
 **Backend**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
+</div>
+
+**Database**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</div>
+
+**Auth & Payments**
+
+<div align="center">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 **Tools & Platforms**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman,figma" />
 </div>
 
 <br/>
