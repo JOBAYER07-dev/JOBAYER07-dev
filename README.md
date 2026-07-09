@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jobayer+Hosen+%F0%9F%91%8B;Web+Developer;MERN+Stack+Enthusiast;Currently+Learning+Next.js)](https://git.io/typing-svg)
+# Hi there, I'm Jobayer Hosen 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Web+Developer;MERN+Stack+Enthusiast;Currently+Learning+Next.js+%26+Django;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -61,7 +63,7 @@ My goal is to grow into a Full-Stack Developer and help build modern, scalable w
 <img src="https://github-readme-stats.shion.dev/api?username=JOBAYER07-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JOBAYER07-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35%" />
 
-<img src="https://streak-stats.demolab.com/?user=JOBAYER07-dev&theme=aura&hide_border=false" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=JOBAYER07-dev&theme=dark&hide_border=false" width="65%" />
 
 </div>
 
@@ -70,7 +72,7 @@ My goal is to grow into a Full-Stack Developer and help build modern, scalable w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JOBAYER07-dev&theme=aura&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=JOBAYER07-dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <br/>
