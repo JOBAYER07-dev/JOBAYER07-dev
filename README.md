@@ -72,7 +72,7 @@ My goal is to grow into a Full-Stack Developer and help build modern, scalable w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JOBAYER07-dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=JOBAYER07-dev&theme=onedark" />
 </div>
 
 <br/>
