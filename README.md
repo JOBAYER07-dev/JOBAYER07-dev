@@ -42,7 +42,7 @@ My goal is to grow into a Full-Stack Developer and help build modern, scalable w
 **Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </div>
 
 **Frontend**
